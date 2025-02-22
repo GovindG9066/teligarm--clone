@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./src/**/*.{html,js}"], // Include all HTML and JS files inside `src`
+  content: ["./index.html", "./src/**/*.{html,js}"], // Include all HTML and JS files inside `src`
   theme: {
     extend: {},
   },
